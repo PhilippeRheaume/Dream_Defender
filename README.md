@@ -7,13 +7,13 @@ Logiciel/Language: Unreal Engine 4 (Blueprints)
 
 Équipe:
 
-Antoine Brouillette
-Marc-André Fortin-Leclerc
-Simon Gervais
-Valérie Grenon-Fréchet
-Étienne Malépart
-Pierre-Luc Messier
-François Prévost
-Philippe Rheaume
-Rui Sequeira
-Thierry St-Gelais
+* Philippe Rheaume
+* Antoine Brouillette
+* Marc-André Fortin-Leclerc
+* Simon Gervais
+* Valérie Grenon-Fréchet
+* Étienne Malépart
+* Pierre-Luc Messier
+* François Prévost
+* Rui Sequeira
+* Thierry St-Gelais
